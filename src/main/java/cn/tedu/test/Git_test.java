@@ -9,6 +9,8 @@ public class Git_test {
         System.out.println("重复：这里是hot-fix");
         System.out.println("这里是hot-fix的第二次尝试01");
         System.out.println("现在进行测试：远程库，master");
+       System.out.println("现在进行测试：远程库的pull操作");
+
 
     }
 }
