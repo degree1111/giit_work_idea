@@ -3,13 +3,7 @@ package cn.tedu.test;
 public class Git_test {
 
     public static void main(String[] args) {
-        System.out.println("测试一下Git");
-        System.out.println("第一次修改，这里是master01");
-        System.out.println("第一次修改，这里是hot-fix01");
-        System.out.println("重复：这里是hot-fix");
-        System.out.println("这里是hot-fix的第二次尝试01");
-        System.out.println("现在进行测试：远程库，master");
-       System.out.println("现在进行测试：远程库的pull操作");
+        System.out.println("清空，然后测试pull");
 
 
     }
