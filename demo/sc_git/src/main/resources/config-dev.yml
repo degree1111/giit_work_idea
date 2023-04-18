@@ -1,21 +1,2 @@
-server:
-  port: 3344555
-spring:
-  application:
-    name: cloud-config-center
-  cloud:
-    config:
-      server:
-        git:
-          uri:  https://github.com/degree1111/git_work.git
-          search-paths:
-            - git_work
-      label: master
-eureka:
-  client:
-    service-url:
-      defaultZone:  http://localhost:7001/eureka
-
-
-age: 
-    info: ceshi
+config:
+  info: "form nacos config center, nacos-config-client-dev.yaml.,version=2"
